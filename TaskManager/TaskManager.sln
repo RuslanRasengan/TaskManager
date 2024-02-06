@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TS.ApiGateway", "TS.ApiGate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TS.Web", "TS.Web\TS.Web.csproj", "{CCE9D7FF-0A05-4C2D-B4C2-8CFE94439338}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TS.Mobile", "TS.Mobile\TS.Mobile.csproj", "{FCA3800A-DF0C-4761-B595-DA505F47DE41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CCE9D7FF-0A05-4C2D-B4C2-8CFE94439338}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCE9D7FF-0A05-4C2D-B4C2-8CFE94439338}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCE9D7FF-0A05-4C2D-B4C2-8CFE94439338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA3800A-DF0C-4761-B595-DA505F47DE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA3800A-DF0C-4761-B595-DA505F47DE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA3800A-DF0C-4761-B595-DA505F47DE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA3800A-DF0C-4761-B595-DA505F47DE41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
